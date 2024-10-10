@@ -15,9 +15,6 @@ STEP 4:Apply Feature Selection for the feature in the data set.
 
 STEP 5:Save the data to the file.
 
-REG NO:212223230220
-NAME: SUBISHESH P
-
 # FEATURE SCALING:
 1. Standard Scaler: It is also called Z-score normalization. It calculates the z-score of each value and replaces the value with the calculated Z-score. The features are then rescaled with x̄ =0 and σ=1
 2. MinMaxScaler: It is also referred to as Normalization. The features are scaled between 0 and 1. Here, the mean value remains same as in Standardization, that is,0.
